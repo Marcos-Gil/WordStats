@@ -3,7 +3,7 @@ Author: Marcos Gil
 Purpose of Program: 
 -------------------
 
-This is a program that take in a text file and find the top 10 more frequently used words
+This is a program that takes in a text file and finds the top 10 more frequently used words
 
 List of Sources:
 ----------------
